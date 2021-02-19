@@ -2,11 +2,7 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
+/src/react-app-env.d.ts
 
 # production
 /build
